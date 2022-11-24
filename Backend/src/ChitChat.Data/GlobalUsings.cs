@@ -1,0 +1,10 @@
+﻿global using ChitChat.Data.Configurations;
+global using ChitChat.Data.Documents;
+global using ChitChat.Data.Services;
+global using Microsoft.Extensions.Configuration;
+global using Microsoft.Extensions.DependencyInjection;
+global using MongoDB.Bson;
+global using MongoDB.Bson.Serialization.Attributes;
+global using MongoDB.Driver;
+global using StackExchange.Redis;
+global using System.Linq.Expressions;
